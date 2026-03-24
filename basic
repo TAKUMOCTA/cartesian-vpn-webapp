@@ -778,6 +778,6 @@
         render();
         
         tg.sendData(JSON.stringify({ action: "init", user_id: userId, username: username }));
-    <script src="languages.js"></script>
+    <script src="Languages.js"></script>
 </body>
 </html>
